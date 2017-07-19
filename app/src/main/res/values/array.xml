@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gym drop-down Spinner -->
+    <string-array name="array_gym_option">
+        <item>@string/option_yes</item>
+        <item>@string/option_no</item>
+    </string-array>
+</resources>
